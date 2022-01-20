@@ -68,6 +68,8 @@ hift + S – Take a screenshot using the Snipping Tool. After pressing the key, 
     – Cycle backwards through the list.
 ## Windows key + Ctrl +  Spacebar :
     – Switch to the last used input method.
+## Windows key + Spacebar:
+    - Switch between input methods (in my case I have setup my mashine in US English with Swiss Keyboard layout. So both Keyboard layout are present by default)
 ## Ctrl + Shift 
     – Switch to a different keyboard layout if multiple are available (for the same language).
 ## Ctrl + Spacebar 
