@@ -40,8 +40,8 @@
     – Open the Run dialog. This allows you to open any app on your PC, as long as you know the name of the executable file for the app.
 ## Windows key + S:
     – Open Windows Search. You can search for files, apps, and search the web here.
-## Windows key + S:
-hift + S – Take a screenshot using the Snipping Tool. After pressing the key, you can still choose your preferred capture mode, including free form, rectangle, window, and full-screen (this includes all connected monitors).
+## Windows key + Shift + S:
+Shift + S – Take a screenshot using the Snipping Tool. After pressing the key, you can still choose your preferred capture mode, including free form, rectangle, window, and full-screen (this includes all connected monitors).
 ## Windows key + U:
     – Open the Accessibility Settings page.
 ## Windows key + Ctrl + C:
