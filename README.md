@@ -90,14 +90,11 @@
      – Take a full-screen screenshot and automatically save it to a file. Items are saved in the Pictures library in a folder called Screenshots.
 ## Windows key + Alt+ PrtScn:
     – Take a screenshot of the active game or window and save it into a file. This feature uses the Xbox Game Bar, and files are saved in the Videos library, in a folder called Captures (by default).
-## PrtScn 
-    – Take a full-screen screenshot and copy it to the clipboard, so you can paste it somewhere else without saving it as a file. You can also go to the Settings app > Accessibility > Keyboard to set the PrtScn key to open the Snipping Tool (making it the same as 
-## Windows key + Shift + S):
-
+## PrtScn (Windows key + Shift + S):
+    – Take a full-screen screenshot and copy it to the clipboard, so you can paste it somewhere else without saving it as a file. You can also go to the Settings app > Accessibility > Keyboard to set the PrtScn key to open the Snipping Tool
 ## Ctrl + Esc 
     – Open the Start menu.
 ## Ctrl + Shift + Esc 
     – Open the Task Manager.
-
 ## Windows + X:
     - Opens Selection for windows menu options like Terminal, Taskmanager, File Explorer...# Windows-11-Shortcuts
